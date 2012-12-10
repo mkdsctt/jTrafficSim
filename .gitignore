@@ -1,0 +1,4 @@
+# unwanted project contents
+build/
+nbproject/
+*.net
