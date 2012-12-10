@@ -1,4 +1,5 @@
 # unwanted project contents
 build/
+dist/
 nbproject/
 *.net
